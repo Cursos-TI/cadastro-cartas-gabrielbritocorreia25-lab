@@ -113,5 +113,7 @@ int main() {
     printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
     printf("PIB per capita: %.2f R$/hab\n", pibpercapita2);
     printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
-}
+    
     return 0;
+}
+   
